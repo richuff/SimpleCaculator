@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SimpleCaculator</string>
+    <string name="appname" translatable="false">SimpleCaculator</string>
+    <string name="title_activity_test1" translatable="false">test1</string>
+    <string name="cancel" translatable="false">CE</string>
+    <string name="div" translatable="false">÷</string>
+    <string name="mul" translatable="false">X</string>
+    <string name="clear" translatable="false">C</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
+    <string name="mius" translatable="false">-</string>
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="divone" translatable="false">1/X</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="ponit" translatable="false">.</string>
+    <string name="equal" translatable="false">=</string>
+</resources>
